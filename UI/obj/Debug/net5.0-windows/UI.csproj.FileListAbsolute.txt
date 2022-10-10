@@ -29,3 +29,5 @@ C:\Proyectos\CrudConsolaSqlClient\UI\obj\Debug\net5.0-windows\ref\UI.dll
 C:\Proyectos\CrudConsolaSqlClient\UI\obj\Debug\net5.0-windows\UI.pdb
 C:\Proyectos\CrudConsolaSqlClient\UI\obj\Debug\net5.0-windows\UI.genruntimeconfig.cache
 C:\Proyectos\CrudConsolaSqlClient\UI\obj\Debug\net5.0-windows\UI.FrmAgregarRol.resources
+C:\Proyectos\CrudConsolaSqlClient\UI\obj\Debug\net5.0-windows\UI.FrmEditarRol.resources
+C:\Proyectos\CrudConsolaSqlClient\UI\obj\Debug\net5.0-windows\UI.FrmEliminarRol.resources

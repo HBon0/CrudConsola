@@ -28,5 +28,17 @@ namespace UI
             FrmAgregarRol frmAgregarRol = new FrmAgregarRol();
             frmAgregarRol.Show();
         }
+
+        private void btnEditar_Click(object sender, EventArgs e)
+        {
+            FrmEditarRol frmEditarRol = new FrmEditarRol();
+            frmEditarRol.Show();
+        }
+
+        private void btnEliminar_Click(object sender, EventArgs e)
+        {
+            FrmEliminarRol frmEliminarRol = new FrmEliminarRol();
+            frmEliminarRol.Show();
+        }
     }
 }
