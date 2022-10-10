@@ -1,0 +1,15 @@
+C:\Proyectos\CrudConsolaSqlClient\AccesoADatosWinForm\obj\Debug\net5.0-windows\AccesoADatosWinForm.csproj.AssemblyReference.cache
+C:\Proyectos\CrudConsolaSqlClient\AccesoADatosWinForm\obj\Debug\net5.0-windows\AccesoADatosWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\CrudConsolaSqlClient\AccesoADatosWinForm\obj\Debug\net5.0-windows\AccesoADatosWinForm.AssemblyInfoInputs.cache
+C:\Proyectos\CrudConsolaSqlClient\AccesoADatosWinForm\obj\Debug\net5.0-windows\AccesoADatosWinForm.AssemblyInfo.cs
+C:\Proyectos\CrudConsolaSqlClient\AccesoADatosWinForm\obj\Debug\net5.0-windows\AccesoADatosWinForm.csproj.CoreCompileInputs.cache
+C:\Proyectos\CrudConsolaSqlClient\AccesoADatosWinForm\bin\Debug\net5.0-windows\AccesoADatosWinForm.deps.json
+C:\Proyectos\CrudConsolaSqlClient\AccesoADatosWinForm\bin\Debug\net5.0-windows\AccesoADatosWinForm.dll
+C:\Proyectos\CrudConsolaSqlClient\AccesoADatosWinForm\bin\Debug\net5.0-windows\ref\AccesoADatosWinForm.dll
+C:\Proyectos\CrudConsolaSqlClient\AccesoADatosWinForm\bin\Debug\net5.0-windows\AccesoADatosWinForm.pdb
+C:\Proyectos\CrudConsolaSqlClient\AccesoADatosWinForm\bin\Debug\net5.0-windows\EntidadesNegocio.dll
+C:\Proyectos\CrudConsolaSqlClient\AccesoADatosWinForm\bin\Debug\net5.0-windows\EntidadesNegocio.pdb
+C:\Proyectos\CrudConsolaSqlClient\AccesoADatosWinForm\obj\Debug\net5.0-windows\AccesoADatosWinForm.csproj.CopyComplete
+C:\Proyectos\CrudConsolaSqlClient\AccesoADatosWinForm\obj\Debug\net5.0-windows\AccesoADatosWinForm.dll
+C:\Proyectos\CrudConsolaSqlClient\AccesoADatosWinForm\obj\Debug\net5.0-windows\ref\AccesoADatosWinForm.dll
+C:\Proyectos\CrudConsolaSqlClient\AccesoADatosWinForm\obj\Debug\net5.0-windows\AccesoADatosWinForm.pdb

@@ -1,0 +1,12 @@
+C:\Proyectos\CrudConsolaSqlClient\EntidadesNegocio\bin\Debug\net5.0-windows\EntidadesNegocio.deps.json
+C:\Proyectos\CrudConsolaSqlClient\EntidadesNegocio\bin\Debug\net5.0-windows\EntidadesNegocio.dll
+C:\Proyectos\CrudConsolaSqlClient\EntidadesNegocio\bin\Debug\net5.0-windows\ref\EntidadesNegocio.dll
+C:\Proyectos\CrudConsolaSqlClient\EntidadesNegocio\bin\Debug\net5.0-windows\EntidadesNegocio.pdb
+C:\Proyectos\CrudConsolaSqlClient\EntidadesNegocio\obj\Debug\net5.0-windows\EntidadesNegocio.csproj.AssemblyReference.cache
+C:\Proyectos\CrudConsolaSqlClient\EntidadesNegocio\obj\Debug\net5.0-windows\EntidadesNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\CrudConsolaSqlClient\EntidadesNegocio\obj\Debug\net5.0-windows\EntidadesNegocio.AssemblyInfoInputs.cache
+C:\Proyectos\CrudConsolaSqlClient\EntidadesNegocio\obj\Debug\net5.0-windows\EntidadesNegocio.AssemblyInfo.cs
+C:\Proyectos\CrudConsolaSqlClient\EntidadesNegocio\obj\Debug\net5.0-windows\EntidadesNegocio.csproj.CoreCompileInputs.cache
+C:\Proyectos\CrudConsolaSqlClient\EntidadesNegocio\obj\Debug\net5.0-windows\EntidadesNegocio.dll
+C:\Proyectos\CrudConsolaSqlClient\EntidadesNegocio\obj\Debug\net5.0-windows\ref\EntidadesNegocio.dll
+C:\Proyectos\CrudConsolaSqlClient\EntidadesNegocio\obj\Debug\net5.0-windows\EntidadesNegocio.pdb

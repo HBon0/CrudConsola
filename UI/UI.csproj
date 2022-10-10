@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AccesoADatosWinForm\AccesoADatosWinForm.csproj" />
+    <ProjectReference Include="..\EntidadesNegocio\EntidadesNegocio.csproj" />
+  </ItemGroup>
+
+</Project>
