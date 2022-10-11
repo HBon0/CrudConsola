@@ -15,6 +15,13 @@ namespace UI
         public FrmEditarRol()
         {
             InitializeComponent();
+            FrmHome home = new FrmHome();
+            
+        }
+
+        private void btnEditar_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
