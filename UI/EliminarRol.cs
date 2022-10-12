@@ -37,13 +37,17 @@ namespace UI
         {
             try
             {
-                rolDAL.Delete(id);
-
-                MessageBox.Show("Registro eliminado correctamente");
+                if (id > 0)
+                {
+                    rolDAL.Delete(id);
+                    MessageBox.Show("Registro eliminado correctamente");
+                }
             } catch(Exception)
             {
                 MessageBox.Show("Algo ha salido mal.");
-            } 
+            }
+
+            btnEliminar.Enabled = false;
         }
     }
 }

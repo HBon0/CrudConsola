@@ -38,14 +38,16 @@ namespace UI
         {
             FrmEditarRol frmEditarRol = new FrmEditarRol();
             frmEditarRol.Show();
-            
-            
+
+            btnEditar.Enabled = false;
         }
 
         private void btnEliminar_Click(object sender, EventArgs e)
         {
             FrmEliminarRol frmEliminarRol = new FrmEliminarRol();
             frmEliminarRol.Show();
+
+            btnEliminar.Enabled = false;
         }
 
         private void dgvRoles_CellDoubleClick(object sender, DataGridViewCellEventArgs e)

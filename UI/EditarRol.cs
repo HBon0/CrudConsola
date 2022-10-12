@@ -47,6 +47,8 @@ namespace UI
             {
                 MessageBox.Show("Ha ocurrido un error. ");
             }
+
+            btnEditar.Enabled = false;
         }
     }
 }

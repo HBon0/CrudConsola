@@ -83,7 +83,7 @@ namespace UI
             // 
             // btnActualizar
             // 
-            this.btnActualizar.Location = new System.Drawing.Point(647, 164);
+            this.btnActualizar.Location = new System.Drawing.Point(646, 164);
             this.btnActualizar.Name = "btnActualizar";
             this.btnActualizar.Size = new System.Drawing.Size(112, 34);
             this.btnActualizar.TabIndex = 4;
