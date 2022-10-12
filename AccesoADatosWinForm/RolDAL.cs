@@ -33,6 +33,19 @@ namespace AccesoADatosWinForm
             return listRol;
         }
 
+        public RolEN GetId(int id)
+        {
+            RolEN rol = new RolEN();
+
+            using (var connection = new SqlConnection(ConnectionString))
+            {
+                var sql = $"select * from Rol where id={id}";
+                rol = connection.QuerySingle<RolEN>(sql);
+            }
+
+            return rol;
+        }
+
         public void Add(RolEN pRol)
         {
             var sql = $"insert into Rol (nombre, estado) values ('{pRol.Nombre}',{pRol.Estado})";

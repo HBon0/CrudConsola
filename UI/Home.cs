@@ -16,6 +16,8 @@ namespace UI
 {
     public partial class FrmHome : Form
     {
+        public static int id;
+
         public FrmHome()
         {
             InitializeComponent();
@@ -52,7 +54,9 @@ namespace UI
             {
                 if (dgvRoles.SelectedRows.Count > 0)
                 {
-                    int id = Convert.ToInt32(this.dgvRoles.SelectedRows[0].Cells[0].Value);
+                    id = Convert.ToInt32(this.dgvRoles.SelectedRows[0].Cells[0].Value);
+                    btnEditar.Enabled = true;
+                    btnEliminar.Enabled = true;
                 }
             } catch (Exception)
             {
@@ -62,11 +66,15 @@ namespace UI
 
         private void dgvRoles_CellMouseClick(object sender, DataGridViewCellMouseEventArgs e)
         {
-            if (dgvRoles.SelectedRows.Count > 0)
-            {
-                btnEditar.Enabled = true;
-                btnEliminar.Enabled = true;
-            }
+            
+        }
+
+        private void btnActualizar_Click(object sender, EventArgs e)
+        {
+            RolDAL rolDAL = new RolDAL();
+            dgvRoles.DataSource = rolDAL.GetTodos();
+            btnEditar.Enabled = false;
+            btnEliminar.Enabled = false;
         }
     }
 }

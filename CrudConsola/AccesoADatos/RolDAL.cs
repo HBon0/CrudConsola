@@ -32,6 +32,19 @@ namespace CrudConsola.AccesoADatos
             return listRol;
         }
 
+        public Rol GetId (int id)
+        {
+            Rol rol = new Rol();
+
+            using (var connection = new SqlConnection(ConnectionString))
+            {
+                var sql = $"select * from Rol where id={id}";
+                rol = connection.QuerySingle<Rol>(sql);
+            }
+
+            return rol;
+        }
+
         public void Add (Rol pRol)
         {
             var sql = $"insert into Rol (nombre, estado) values ('{pRol.Nombre}',{pRol.Estado})";
