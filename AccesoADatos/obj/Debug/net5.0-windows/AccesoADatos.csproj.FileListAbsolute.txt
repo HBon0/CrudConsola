@@ -1,0 +1,17 @@
+C:\Proyectos\CrudCatalogoEmpresas\CrudCatalogoEmpresas\AccesoADatos\bin\Debug\net5.0-windows\AccesoADatos.deps.json
+C:\Proyectos\CrudCatalogoEmpresas\CrudCatalogoEmpresas\AccesoADatos\bin\Debug\net5.0-windows\AccesoADatos.dll
+C:\Proyectos\CrudCatalogoEmpresas\CrudCatalogoEmpresas\AccesoADatos\bin\Debug\net5.0-windows\ref\AccesoADatos.dll
+C:\Proyectos\CrudCatalogoEmpresas\CrudCatalogoEmpresas\AccesoADatos\bin\Debug\net5.0-windows\AccesoADatos.pdb
+C:\Proyectos\CrudCatalogoEmpresas\CrudCatalogoEmpresas\AccesoADatos\bin\Debug\net5.0-windows\EntidadesDeNegocios.dll
+C:\Proyectos\CrudCatalogoEmpresas\CrudCatalogoEmpresas\AccesoADatos\bin\Debug\net5.0-windows\EntidadesDeNegocios.pdb
+C:\Proyectos\CrudCatalogoEmpresas\CrudCatalogoEmpresas\AccesoADatos\obj\Debug\net5.0-windows\AccesoADatos.csproj.AssemblyReference.cache
+C:\Proyectos\CrudCatalogoEmpresas\CrudCatalogoEmpresas\AccesoADatos\obj\Debug\net5.0-windows\AccesoADatos.UserControl1.resources
+C:\Proyectos\CrudCatalogoEmpresas\CrudCatalogoEmpresas\AccesoADatos\obj\Debug\net5.0-windows\AccesoADatos.csproj.GenerateResource.cache
+C:\Proyectos\CrudCatalogoEmpresas\CrudCatalogoEmpresas\AccesoADatos\obj\Debug\net5.0-windows\AccesoADatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\CrudCatalogoEmpresas\CrudCatalogoEmpresas\AccesoADatos\obj\Debug\net5.0-windows\AccesoADatos.AssemblyInfoInputs.cache
+C:\Proyectos\CrudCatalogoEmpresas\CrudCatalogoEmpresas\AccesoADatos\obj\Debug\net5.0-windows\AccesoADatos.AssemblyInfo.cs
+C:\Proyectos\CrudCatalogoEmpresas\CrudCatalogoEmpresas\AccesoADatos\obj\Debug\net5.0-windows\AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Proyectos\CrudCatalogoEmpresas\CrudCatalogoEmpresas\AccesoADatos\obj\Debug\net5.0-windows\AccesoADatos.csproj.CopyComplete
+C:\Proyectos\CrudCatalogoEmpresas\CrudCatalogoEmpresas\AccesoADatos\obj\Debug\net5.0-windows\AccesoADatos.dll
+C:\Proyectos\CrudCatalogoEmpresas\CrudCatalogoEmpresas\AccesoADatos\obj\Debug\net5.0-windows\ref\AccesoADatos.dll
+C:\Proyectos\CrudCatalogoEmpresas\CrudCatalogoEmpresas\AccesoADatos\obj\Debug\net5.0-windows\AccesoADatos.pdb

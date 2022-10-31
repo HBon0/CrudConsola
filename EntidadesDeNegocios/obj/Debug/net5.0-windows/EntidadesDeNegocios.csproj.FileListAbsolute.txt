@@ -1,0 +1,14 @@
+C:\Proyectos\CrudCatalogoEmpresas\CrudCatalogoEmpresas\EntidadesDeNegocios\bin\Debug\net5.0-windows\EntidadesDeNegocios.deps.json
+C:\Proyectos\CrudCatalogoEmpresas\CrudCatalogoEmpresas\EntidadesDeNegocios\bin\Debug\net5.0-windows\EntidadesDeNegocios.dll
+C:\Proyectos\CrudCatalogoEmpresas\CrudCatalogoEmpresas\EntidadesDeNegocios\bin\Debug\net5.0-windows\ref\EntidadesDeNegocios.dll
+C:\Proyectos\CrudCatalogoEmpresas\CrudCatalogoEmpresas\EntidadesDeNegocios\bin\Debug\net5.0-windows\EntidadesDeNegocios.pdb
+C:\Proyectos\CrudCatalogoEmpresas\CrudCatalogoEmpresas\EntidadesDeNegocios\obj\Debug\net5.0-windows\EntidadesDeNegocios.csproj.AssemblyReference.cache
+C:\Proyectos\CrudCatalogoEmpresas\CrudCatalogoEmpresas\EntidadesDeNegocios\obj\Debug\net5.0-windows\EntidadesDeNegocios.UserControl1.resources
+C:\Proyectos\CrudCatalogoEmpresas\CrudCatalogoEmpresas\EntidadesDeNegocios\obj\Debug\net5.0-windows\EntidadesDeNegocios.csproj.GenerateResource.cache
+C:\Proyectos\CrudCatalogoEmpresas\CrudCatalogoEmpresas\EntidadesDeNegocios\obj\Debug\net5.0-windows\EntidadesDeNegocios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\CrudCatalogoEmpresas\CrudCatalogoEmpresas\EntidadesDeNegocios\obj\Debug\net5.0-windows\EntidadesDeNegocios.AssemblyInfoInputs.cache
+C:\Proyectos\CrudCatalogoEmpresas\CrudCatalogoEmpresas\EntidadesDeNegocios\obj\Debug\net5.0-windows\EntidadesDeNegocios.AssemblyInfo.cs
+C:\Proyectos\CrudCatalogoEmpresas\CrudCatalogoEmpresas\EntidadesDeNegocios\obj\Debug\net5.0-windows\EntidadesDeNegocios.csproj.CoreCompileInputs.cache
+C:\Proyectos\CrudCatalogoEmpresas\CrudCatalogoEmpresas\EntidadesDeNegocios\obj\Debug\net5.0-windows\EntidadesDeNegocios.dll
+C:\Proyectos\CrudCatalogoEmpresas\CrudCatalogoEmpresas\EntidadesDeNegocios\obj\Debug\net5.0-windows\ref\EntidadesDeNegocios.dll
+C:\Proyectos\CrudCatalogoEmpresas\CrudCatalogoEmpresas\EntidadesDeNegocios\obj\Debug\net5.0-windows\EntidadesDeNegocios.pdb
